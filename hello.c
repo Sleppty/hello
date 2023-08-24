@@ -1,5 +1,8 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-    printf("Hello, Tyler Smith");
+    printf("Hello, Tyler Smith\n");
+    printf("Your major is Computer Science!\n");
+
+    return 0;
 }
